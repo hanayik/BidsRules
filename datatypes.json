@@ -1,0 +1,19 @@
+{
+  "datatypes": [
+    "anat:T1w",
+    "anat:T2w",
+    "anat:T1rho",
+    "anat:T1map",
+    "anat:T2map",
+    "anat:T2star",
+    "anat:FLAIR",
+    "anat:FLASH",
+    "anat:PD",
+    "anat:PDmap",
+    "anat:PDT2",
+    "anat:angio",
+    "func:bold",
+    "dwi:dwi",
+    "discard"
+  ]
+}
